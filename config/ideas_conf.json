@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "source_path": "\\\\stdiazddpblobteam.file.core.windows.net\\dev\\dev\\source\\Ideas\\Logic Apps\\data_staging",
+    "dest_path": "\\\\stdiazddpblob.file.core.windows.net\\dev\\sit\\source\\Ideas"
+}
